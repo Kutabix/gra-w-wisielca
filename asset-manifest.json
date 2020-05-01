@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gra-w-wisielca/static/css/main.5f4c1341.chunk.css",
+    "main.js": "/gra-w-wisielca/static/js/main.23b50890.chunk.js",
+    "main.js.map": "/gra-w-wisielca/static/js/main.23b50890.chunk.js.map",
+    "runtime-main.js": "/gra-w-wisielca/static/js/runtime-main.09ba61c0.js",
+    "runtime-main.js.map": "/gra-w-wisielca/static/js/runtime-main.09ba61c0.js.map",
+    "static/js/2.3a7a9ee0.chunk.js": "/gra-w-wisielca/static/js/2.3a7a9ee0.chunk.js",
+    "static/js/2.3a7a9ee0.chunk.js.map": "/gra-w-wisielca/static/js/2.3a7a9ee0.chunk.js.map",
+    "index.html": "/gra-w-wisielca/index.html",
+    "precache-manifest.08a5a3d2ddf27b7a71fe6a7a9d735167.js": "/gra-w-wisielca/precache-manifest.08a5a3d2ddf27b7a71fe6a7a9d735167.js",
+    "service-worker.js": "/gra-w-wisielca/service-worker.js",
+    "static/css/main.5f4c1341.chunk.css.map": "/gra-w-wisielca/static/css/main.5f4c1341.chunk.css.map",
+    "static/js/2.3a7a9ee0.chunk.js.LICENSE.txt": "/gra-w-wisielca/static/js/2.3a7a9ee0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ba61c0.js",
+    "static/js/2.3a7a9ee0.chunk.js",
+    "static/css/main.5f4c1341.chunk.css",
+    "static/js/main.23b50890.chunk.js"
+  ]
+}
